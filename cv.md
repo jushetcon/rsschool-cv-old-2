@@ -1,6 +1,6 @@
 ### rsschool-cv
 
-## Timur Azizov
+## ***Timur Azizov***
 
 ### Junior Frontend Developer
 
@@ -8,4 +8,9 @@
 
 ## My Contact Info:
 
-- ## [Telegram](https://t.me/thuramz)
+* [Github](https://github.com/jushetcon)
+* [Telegram](https://t.me/thuramz)
+* Discord: Thuramz#6611
+* E-mail: B.e.sdark@gmail.com
+
+---
