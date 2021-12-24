@@ -15,7 +15,7 @@
 
 ---
 
-## About me
+## About Me
 
 I am 21 years old and live in Russia. I want to learn Front-End Development. I have no experience in this yet, but I think I will soon fix it.  
 My strengths:
@@ -26,9 +26,25 @@ My strengths:
 
 ---
 
-# Skills
+## Skills
 
 - HTML/CSS
 - JavaScript
 - Git/Github
 - Keep learning..
+
+---
+
+## Code Example
+
+```
+function multiply(a, b){
+  console.log(a * b);
+  return a * b;
+}
+```
+---
+
+## Courses:
+* [HTML Academy](https://htmlacademy.ru/)
+* JavaScript Manual on [learn.javascript.ru](learn.javascript.ru)
