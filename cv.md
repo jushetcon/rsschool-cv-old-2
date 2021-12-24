@@ -48,3 +48,11 @@ function multiply(a, b){
 ## Courses:
 * [HTML Academy](https://htmlacademy.ru/)
 * JavaScript Manual on [learn.javascript.ru](learn.javascript.ru)
+
+---
+
+## Languages
+
+* English - A2
+* Russian - Native
+
