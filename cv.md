@@ -14,3 +14,9 @@
 * E-mail: B.e.sdark@gmail.com
 
 ---
+## About me
+I am 21 years old and live in Russia. I want to learn Front-End Development. I have no experience in this yet, but I think I will soon fix it.  
+My strengths:
+* Focused
+* Quick learner
+* Flexibility
