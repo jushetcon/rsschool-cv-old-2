@@ -28,10 +28,6 @@ body {
 	box-shadow: 0 35px 55px rgba(0, 0, 0, 0.1)
 }
 
-li {
-	list-style: none;
-}
-
 .container .left__side {
 	position: relative;	
 	background: #003147;
@@ -150,6 +146,15 @@ img {
 	color: white;
 }
 
+.logo img {
+	margin-top: 65px;
+}
+
+.logo p {
+	color: #fff;
+	margin-left: 65px;
+}
+
 .Courses__info h3 {
 	margin-top: 80px;
 }
@@ -177,5 +182,26 @@ img {
 }
 
 P {
-	color: #333
+	color: #333;
+	font-weight: 500;
+}
+
+ul.nodec{
+	list-style: none;
+}
+
+.right__side p {
+	margin-bottom: 20px; ;
+}
+
+.right__side li {
+	margin-left: 20px;
+}
+
+.code__example .title2 {
+	margin-top: 30px;
+}
+
+pre {
+background-color:#c0cee2
 }
